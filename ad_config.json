@@ -1,0 +1,13 @@
+{
+  "adsEnabled": false,
+  "adConfig": {
+    "appOpenAdId": "ca-app-pub-7664796446664534/7396942194",
+    "bannerAdId": "ca-app-pub-7664796446664534/6702582287",
+    "nativeAdId": "ca-app-pub-7664796446664534/9468346421",
+    "interstitialAdId": "ca-app-pub-7664796446664534/4742858699",
+    "rewardedAdId": "ca-app-pub-7664796446664534/2336187206",
+    "interstitialIntervalSeconds": 60
+  },
+  "appVersion": "1.0",
+  "maintenanceMode": false
+}
