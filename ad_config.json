@@ -1,5 +1,5 @@
 {
-  "adsEnabled": false,
+  "adsEnabled": true,
   "adConfig": {
     "appOpenAdId": "ca-app-pub-7664796446664534/7396942194",
     "bannerAdId": "ca-app-pub-7664796446664534/6702582287",
