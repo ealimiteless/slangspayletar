@@ -7,4 +7,7 @@
     "interstitialAdId": "ca-app-pub-7664796446664534/4742858699",
     "rewardedAdId": "ca-app-pub-7664796446664534/2336187206",
     "interstitialIntervalSeconds": 60
-  }
+  },
+  "appVersion": "1.0",
+  "maintenanceMode": false
+}
